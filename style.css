@@ -1,0 +1,26 @@
+* {
+  margin: 0%;
+}
+
+body {
+  background-color: #454545;
+}
+
+.container {
+  width: 90%;
+  height: 90vh;
+  margin: 5vh auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.blocks {
+  height: 50%;
+  background-color: #1144cc90;
+}
+
+.handle {
+  height: 5%;
+  background-color: #f3f3f315;
+}
